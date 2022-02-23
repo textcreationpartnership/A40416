@@ -1,0 +1,143 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The freeholders choice, or, A letter of advice concerning elections</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40416</idno>
+            <idno type="STC">Wing F2114</idno>
+            <idno type="STC">ESTC R21303</idno>
+            <idno type="EEBO-CITATION">12738240</idno>
+            <idno type="OCLC">ocm 12738240</idno>
+            <idno type="VID">93043</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40416)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93043)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 693:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The freeholders choice, or, A letter of advice concerning elections</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Elections --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:93043:1"/>
+            <!-- PDF PAGE 13 -->
+            <pb n="1" facs="tcp:93043:1"/>
+            <!-- PDF PAGE 13 -->
+            <head>THE Freeholders Choice: OR, A LETTER OF ADVICE Concerning ELECTIONS.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Received yours of the 12th Inſtant, and am fully of your mind, That if our Repreſentatives cannot be ſuffered to make Laws to re<g ref="char:EOLhyphen"/>gulate Elections, we muſt ſupply that defect by ſome Contract amongſt our ſelves, whereby all unneceſſary charge may be prevented, as of late has been done in moſt Counties in the caſe of Sheriffs; for otherwiſe the preſent Deſign of ſuch frequent changes of Parliaments, may prove as pernicious to the peoples Intereſt, as the perpetuating of One Our Grandees do now ſee that they did outſhoot themſelves, and are full of re<g ref="char:EOLhyphen"/>pentance for their raſh and haſty Diſſolution of the late Odious over-long Parliament, and are therefore attempting to retrieve that error by tiring out the people with frequent changes, till they can get another for their
+<pb n="2" facs="tcp:93043:2"/>
+               <!-- PDF PAGE 14 -->
+tooth, as managable and mercenary as the former. And therefore to ob<g ref="char:EOLhyphen"/>viate this miſchief, we muſt make Elections eaſie both to the Chuſers and the Choſen. To conſider of which, as alſo to contrive the management at a publick Charge, of all abuſes by Mayors, Bailiffs, and Sheriffs, in making double and falſe Returns, and all other undue and illegal practi<g ref="char:EOLhyphen"/>ſes; I ſhall with the reſt of the Gentlemen in theſe parts, give you the meeting you deſire.</p>
+            <p>I find all perſons very forward to countenance this publick work, ex<g ref="char:EOLhyphen"/>cept the high-flown Ritualiſts and Ceremony-mongers of the Clergy, who being in the Conſpiracy againſt the people, lay out themſelves to accom<g ref="char:EOLhyphen"/>modate their Maſters with the verieſt Villains that can be pickt up in all the Countrey, that ſo we may fall into the hands again of as Treacherous and Lewd a Parliament as the Wiſdom of God and Folly of man has moſt miraculouſly freed us from. To which end they traduce all worthy men for <hi>Fanaticks, Schiſmaticks,</hi> or favourers of them: nay, do but pitch up<g ref="char:EOLhyphen"/>on a Gentleman that believes it his duty to ſerve his God, his King and Countrey faithfully, they cry him down as a perſon dangerous and diſaffect<g ref="char:EOLhyphen"/>ed to the Government, thinking hereby to ſcare the people from the free<g ref="char:EOLhyphen"/>dom of their Choice, and then impoſe their hair-brain'd Journey-men and half-witted Fobs upon them.</p>
+            <p>Wherefore I think it no leſs than a duty incumbent on us, in this time of publick danger, to expoſe theſe blind leaders of the blind, with their de<g ref="char:EOLhyphen"/>ſigned Conſpiracy, to the people view, and to wipe off that little paint that is upon them, that the whole Nation ſeeing them in their proper co<g ref="char:EOLhyphen"/>lours, may have that contempt and ſcorn for them which they deſerve.</p>
+            <p>For as no love nor kindneſs from Chriſtians, can be too much to ſuch Mi<g ref="char:EOLhyphen"/>niſters of the Goſpel as ſhall diligently and faithfully diſcharge their duties, without officiouſly involving and turmoiling themſelves in Secular affairs; ſo when they ſhall deſert their own ſtation, and prove curſed Inſtruments in the hands of their managers, of Cruelty, Rapine, and Oppreſſion of a people, inſtead of preaching up the good tidings of peace and happineſs to mankind, they then become a Den of thieves, and ought to be eſteem<g ref="char:EOLhyphen"/>ed by all Lovers of their Countrey, as unnatural and publick diſturbers of its peace and welfare.</p>
+            <p>By their Office, indeed, they are the ſalt of the earth, but having loſt their ſavour, they are thenceforth good for nothing, but to be caſt out and trodden under foot of men, as our Saviour teaches. For pray now, becauſe we ought to honour and moſt tenderly affect thoſe that lay out themſelves and Talents for the ſalvation of our ſouls; does it therefore follow that we muſt bear the ſame reſpect to ſuch as endeavour the deſtruction of our bo<g ref="char:EOLhyphen"/>dies and eſtates? God forbid that ſo brutal an inference ſhould infect the minds of men! A good Phyſician that adminiſters wholeſome and found Medicines, ought to be rewarded; but an ignorant or knaviſh Quack, that gives us poyſon inſtead of phyſick, deſerves an halter, though he has the Colledg-Licenſe.</p>
+            <p>
+               <pb n="3" facs="tcp:93043:2"/>
+               <!-- PDF PAGE 14 -->
+St. <hi>James</hi> put a pertinent and honeſt queſtion to the Chriſtians of his time, <hi>From whence come wars and fightings amongſt you?</hi> And were he now alive to repeat it, all <hi>Europe</hi> would anſwer him with one voice, <hi>From Knaviſh and Time-ſerving Prieſts, who conſulting their own Secular advan<g ref="char:EOLhyphen"/>tage, and to heap up to themſelves a worldly Maſs of Wealth, of Grandeur, and of Power, have deſigned to make all people ſlaves to their Princes, and Princes ſlaves to themſelves.</hi>
+            </p>
+            <p>Theſe Traditors of the Goſpel have deſerted the plain paths of Righteouſneſs, and betaken themſelves to a Serpentine courſe of creeping into Courts, and there have created and fomented miſunder<g ref="char:EOLhyphen"/>ſtandings and jealouſies betwixt governing-Powers and their Subjects, that thereby they might ſeemingly become neceſſary to the one, and have an opportunity of pillaging, oppreſſing, and domineering over the other. 'Tis theſe Sons of <hi>Belial</hi> who in all ages have endeavoured to corrupt and ſtain the generous minds of Princes with Arbitrary and unmanly Maxims of Government and State, and have framed for them the weak Policies of Cruelty, Craft, Treachery, and formal Devotion, inſtead of Protecti<g ref="char:EOLhyphen"/>on, Wiſdom, Juſtice, and Righteouſneſs, which alone can eſtabliſh a Na<g ref="char:EOLhyphen"/>tion; inſomuch that Magiſtracy, which ought to watch for the good of the people, is fain to be watcht by the people, leſt it ruine and undo them. 'Tis theſe Wolves in ſheeps cloathing, who have eaten up the people of God like bread, and in all parts of the Chriſtian world have ſpirited the making, and edg'd the execution of Perſecuting and Sangui<g ref="char:EOLhyphen"/>nary Laws: Wherefore I believe good Father <hi>Jacob</hi> had a foreſight of theſe ſons of <hi>Levi,</hi> when in his Laſt Will and Teſtament he left them a Curſe for a Legacy, inſtead of a Bleſſing; and if the whole world were now to make their Wills, all but Knaves and Fools would do the like.</p>
+            <p>You may eaſily call to mind a late Inſtance of the Humanity and Con<g ref="char:EOLhyphen"/>ſcience of this Race of men here in <hi>England:</hi> For when His Majeſty not long ſince Attempted to follow his own Inclinations, and emitted a Decla<g ref="char:EOLhyphen"/>ration of Indulgence to tender Conſciences, the whole <hi>Poſſe Cleri</hi> ſeemed to be Raiſed againſt him: Every <hi>Reader</hi> and <hi>Gibeonite</hi> of the Church could then talk as ſaucily of their King, as they do now of the late Honourable Parliament; nay, they began to ſtand upon their Terms, and delivered it out as Orthodox Doctrine, That the King was to Act according to Law, and therefore could not ſuſpend a Poenal Statute, that the Subjects Obedi<g ref="char:EOLhyphen"/>ence was a Legal Obedience; and therefore if the King commanded any thing contrary to Law, the Subject was not bound to obey; with ſo many other honeſt Poſitions, that men wondred in God how ſuch Knaves ſhould come by them. But wherefore was all this Wrath, and all this Doctrine? Meerly becauſe His Majeſty was pleaſed for a time to remove the ſore backs of Diſſenters from under the Eccleſiaſtical laſh; the bloody exerciſe of which, is never denied to Holy Church, but the Magiſtrate is immediately aſſaulted with the noiſe and clamour of <hi>Demetrius</hi> and his Crafts-men.</p>
+            <p>
+               <pb n="4" facs="tcp:93043:3"/>
+               <!-- PDF PAGE 15 -->
+But now the Tables being turned, the ſame mercenary Tongues are again all <hi>Sibthorp,</hi> and all <hi>Mannering,</hi> not a bit of Law or Conſcience either, is now to be had for love or money, nor any limits to be put to the Kings Com<g ref="char:EOLhyphen"/>mands, or our Obedience: 'Tis a Goſpel-Truth with theſe men, That all which we have is the Kings; and if he ſhould command our Eſtates, our Wives and Children, yea, and our Religion too, we ought to Reſign them up, ſubmit, and be ſilent. And therefore in the approaching Elections, of all men, I would avoid ſuch as are recommended by theſe <hi>Sycophants,</hi> leſt ſuch damnable Doctrine ſhould crawl from the Pulpit, into the Parliament-Houſe, to the deſtruction of Religion, and utter ruin of the State.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:93043:3"/>
+            <!-- PDF PAGE 15 -->
+         </div>
+      </body>
+   </text>
+</TEI>
